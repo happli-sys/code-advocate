@@ -1,0 +1,6 @@
+{
+  "name": "code-advocate",
+  "version": "0.1.0",
+  "description": "Adversarial code validation — AI-generated code must prove itself before entering your codebase",
+  "skills": ["code-advocate"]
+}
