@@ -1,6 +1,6 @@
 ---
 name: Code Advocate
-description: This skill should be used when the user asks to "advocate code", "review AI generated code", "defend code", "challenge code", "verify generated code", "cross-examine code", "put code on trial", or when AI-generated code needs independent verification before being committed. Also use when the user wants to ensure generated code is production-worthy through adversarial validation.
+description: This skill should be used when the user asks to "帮我辩护这段代码", "对这段代码进行对抗验证", "质疑这段代码", "这段代码能上线吗", "AI 生成的代码靠谱吗", "帮我审查生成的代码", "advocate this code", "put this code on trial", "cross-examine code", or when AI-generated code has just been produced and needs adversarial validation before committing.
 version: 0.1.0
 ---
 
