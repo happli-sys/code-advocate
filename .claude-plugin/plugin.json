@@ -2,5 +2,7 @@
   "name": "code-advocate",
   "version": "0.1.0",
   "description": "Adversarial code validation — AI-generated code must prove itself before entering your codebase",
-  "skills": ["."]
+  "repository": "https://github.com/happli-sys/code-advocate",
+  "license": "MIT",
+  "skills": "./skills/"
 }
