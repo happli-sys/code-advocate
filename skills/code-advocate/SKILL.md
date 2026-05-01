@@ -120,7 +120,3 @@ If the verdict is CONDITIONAL PASS or REJECT:
 
 - **`examples/simple-function-verdict.md`** — Verdict for a simple Go function
 - **`examples/complex-service-verdict.md`** — Verdict for a multi-service interaction
-
-### Scripts
-
-- **`scripts/collect-context.sh`** — Collect relevant context (AST, git history, related files) for the adversarial process
